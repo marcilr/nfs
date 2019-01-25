@@ -1,0 +1,6 @@
+nfs.txt
+Created Fri Jan 25 07:15:39 AKST 2019
+by Raymond E. Marcil <ray.marcil@alaska.gov>
+
+
+Network File Systems (NFS)
