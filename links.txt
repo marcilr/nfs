@@ -1,0 +1,14 @@
+links.txt
+Created Fri Jan 25 07:18:07 AKST 2019
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+nfs related links
+
+
+Links
+=====
+Network File System - Wikipedia
+https://en.wikipedia.org/wiki/Network_File_System
+
+
