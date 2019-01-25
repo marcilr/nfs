@@ -11,4 +11,6 @@ Links
 Network File System - Wikipedia
 https://en.wikipedia.org/wiki/Network_File_System
 
-
+Linux / Unix: Show Shares on NFS Server [ Shared Directories ]
+last updated April 20, 2012 in Categories UNIX
+https://www.cyberciti.biz/faq/howto-see-shares-on-nfs-server-exported-filesystems/
