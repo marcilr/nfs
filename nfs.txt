@@ -15,5 +15,11 @@ system.  The NFS is an open standard defined in Request for Comments
 
 Links
 =====
+[1] by Sun Microsystems in 1984
+ Russel Sandberg; David Goldberg; Steve Kleiman;
+Dan Walsh; Bob Lyon (1985). "Design and Implementation
+of the Sun Network Filesystem". USENIX.
+http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.14.473
+
 Network File System
 https://en.wikipedia.org/wiki/Network_File_System
